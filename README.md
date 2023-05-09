@@ -1,1 +1,1 @@
-Este es mi primer HTML y soy README modificado de branch secundaria
+Este es mi primer HTML y soy README modificado desde otra rama
